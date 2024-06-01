@@ -1,0 +1,9 @@
+﻿## Interface: 30300
+## Title: CharacterDatabase
+## Notes: Ein Addon zum Speichern von Charakteren
+## Author: Dein Name
+## Version: 1.0
+## SavedVariables: CharacterDatabase
+
+CharacterDatabase.lua
+CharacterDatabase.xml
